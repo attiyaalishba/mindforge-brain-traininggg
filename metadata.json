@@ -1,0 +1,6 @@
+{
+  "name": "MindForge: Brain Training & Memory Gym",
+  "description": "Train your visual memory with 30 progressive memory card levels, custom practice cards, cognitive ranks from Novice to Grandmaster, and 30-day progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
